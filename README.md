@@ -2,7 +2,7 @@
 
 ## Em prática:
 
-*- Classe scanner
+- Classe scanner
 - if/ else if
 - Looping com while*
 
